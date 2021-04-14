@@ -32,6 +32,7 @@ import org.openmrs.api.PatientService;
 import org.openmrs.api.PersonService;
 import org.openmrs.api.UserService;
 import org.openmrs.api.context.Context;
+import org.openmrs.web.WebUtil;
 
 /**
  * DWR methods for ajaxy effects on {@link Person} objects.
